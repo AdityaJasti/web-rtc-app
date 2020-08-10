@@ -9,11 +9,11 @@
   "keywords": [
     "WebRTC"
   ],
-  "author": "Michael Wanyoike",
-  "license": "MIT",
+  "author": "Aditya",
+  "license": "",
   "repository": {
     "type": "git",
-    "url": "git@github.com:brandiqa/simplewebrtc-messenger.git"
+    "url": "git@github.com:AdityaJasti/web-rtc-app.git"
   },
   "dependencies": {
     "express": "^4.16.3",
